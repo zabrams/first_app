@@ -1,0 +1,7 @@
+[user]
+	name = ZCA
+	email = zachary.abrams@gmail.com
+[alias]
+	co = checkout
+[core]
+	editor = mate -w
